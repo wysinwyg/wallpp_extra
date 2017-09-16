@@ -4,7 +4,7 @@ categories:[
 id: "wpp_ec_id_retro",
 name: "Retro",
 enabled: true,
-thumb:"",
+thumb:"http://",
 url:"https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/retro.json"
 }
 ]
