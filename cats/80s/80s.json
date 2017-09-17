@@ -1,12 +1,29 @@
 {
-hits:[
-{
-imageSize: 1079014,
-imageURL: "https://pixabay.com/get/ec33b50e28e91c72d55e4d06ee48468be272e2d01cb519429df5.jpg",
-webformatURL: "https://pixabay.com/get/ec33b50e28e91c72d55e4d06ee48468be272e2d01cb519429df5_640.jpg",
-imageWidth: 3872,
-user: "",
-imageHeight: 2592
-},
-]
+  hits: [
+    {
+      imageSize: 174266,
+      imageURL: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/80s/images/texture1.jpg",
+      imageXXX: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/80s/previe/texture1.jpg",
+      imageWidth: 0,
+      user: "",
+      imageHeight: 0
+    },
+	{
+      imageSize: 278373,
+      imageURL: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/80s/images/texture2.jpg",
+      imageXXX: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/80s/previe/texture2.jpg",
+      imageWidth: 0,
+      user: "",
+      imageHeight: 0
+    },
+	{
+      imageSize: 283914,
+      imageURL: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/80s/images/texture1.jpg",
+      imageXXX: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/80s/previe/texture1.jpg",
+      imageWidth: 0,
+      user: "",
+      imageHeight: 0
+    },
+    
+  ]
 }
