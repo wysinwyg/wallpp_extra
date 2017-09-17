@@ -17,7 +17,7 @@
     {
       id: "wpp_ec_id_others",
       name: "Others",
-      enabled: true,
+      enabled: false,
       thumb: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/thumbs/others.png",
       url: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/others.json"
     }
