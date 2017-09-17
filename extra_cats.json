@@ -1,18 +1,25 @@
 {
-categories:[
-{
-id: "wpp_ec_id_retro",
-name: "Retro",
-enabled: true,
-thumb:"https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/thumbs/retro.png",
-url:"https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/retro.json"
-},
-{
-id: "wpp_ec_id_80s",
-name: "80s",
-enabled: true,
-thumb:"https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/thumbs/80s.png",
-url:"https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/retro.json"
-}
-]
+  categories: [
+    {
+      id: "wpp_ec_id_retro",
+      name: "Retro",
+      enabled: true,
+      thumb: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/thumbs/retro.png",
+      url: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/retro.json"
+    },
+    {
+      id: "wpp_ec_id_80s",
+      name: "80s",
+      enabled: true,
+      thumb: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/thumbs/80s.png",
+      url: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/80s.json"
+    },
+    {
+      id: "wpp_ec_id_others",
+      name: "Others",
+      enabled: true,
+      thumb: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/thumbs/others.png",
+      url: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/others.json"
+    }
+  ]
 }
