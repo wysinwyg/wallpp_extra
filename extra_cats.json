@@ -4,21 +4,21 @@
       id: "wpp_ec_id_retro",
       name: "Retro",
       enabled: true,
-      thumb: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/retro/thumbs/retro.png",
+      thumb: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/thumbs/retro.png",
       url: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/retro/retro.json"
     },
     {
       id: "wpp_ec_id_80s",
       name: "80s",
       enabled: true,
-      thumb: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/80s/thumbs/80s.png",
+      thumb: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/thumbs/80s.png",
       url: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/80s/80s.json"
     },
     {
       id: "wpp_ec_id_others",
       name: "Others",
       enabled: false,
-      thumb: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/others/thumbs/others.png",
+      thumb: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/thumbs/others.png",
       url: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/others/others.json"
     }
   ]
