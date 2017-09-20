@@ -1,6 +1,30 @@
 {
   hits: [
     {
+      imageSize: 81485,
+      imageURL: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/retro/images/retro_2009_1.jpg",
+      webformatURL: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/retro/preview/retro_2009_1.jpg",
+      imageWidth: 1080,
+      user: "",
+      imageHeight: 1900
+    },
+	{
+      imageSize: 3098396,
+      imageURL: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/retro/images/retro_2009.jpg",
+      webformatURL: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/retro/preview/retro_2009.jpg",
+      imageWidth: 3480,
+      user: "",
+      imageHeight: 2160
+    },
+	{
+      imageSize: 472287,
+      imageURL: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/retro/images/retro_2009_2.jpg",
+      webformatURL: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/retro/preview/retro_2009_2.jpg",
+      imageWidth: 768,
+      user: "",
+      imageHeight: 1024
+    },
+    {
       imageSize: 579164,
       imageURL: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/retro/images/City1.jpg",
       webformatURL: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/retro/preview/City1.jpg",

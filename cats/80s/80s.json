@@ -1,6 +1,14 @@
 {
   hits: [
     {
+      imageSize: 69353,
+      imageURL: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/80s/images/80s_2009.jpg",
+      webformatURL: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/80s/preview/80s_2009.jpg",
+      imageWidth: 640,
+      user: "",
+      imageHeight: 720
+    },
+    {
       imageSize: 83728,
       imageURL: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/80s/images/texture1.jpg",
       webformatURL: "https://raw.githubusercontent.com/wysinwyg/wallpp_extra/master/cats/80s/preview/texture1.jpg",
